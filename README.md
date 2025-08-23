@@ -110,4 +110,4 @@ MIT — feel free to use and adapt.
 
 Ahamed Dhaarik
 
-Portfolio/GitHub: https://ahameddhaarik.github.io
+Portfolio/GitHub: https://github.com/Ahameddhaarik
