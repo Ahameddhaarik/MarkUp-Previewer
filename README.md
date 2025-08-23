@@ -1,4 +1,4 @@
-MarkUp Previewer
+#MarkUp Previewer
 
 Live, in-browser Markdown editor with instant preview.
 
@@ -18,27 +18,6 @@ Lightweight & fast: Runs entirely in the browser—no backend.
 
 Frontend: HTML, CSS, JavaScript
 (If your build uses a framework/bundler like React/Vite, the local setup below covers that too.)
-
-🚀 Getting Started (Local)
-Option A — Open directly
-
-Clone or download the repository.
-
-Open index.html in your browser.
-
-Option B — Run with a local server (recommended)
-# from the project root
-python -m http.server 5173    # or: npx serve
-
-
-Then open the shown URL in your browser.
-
-Option C — If the project uses npm (React/Vite, etc.)
-npm install
-npm run dev     # or: npm start
-
-
-If these scripts don’t exist, you can ignore this section and use Option A or B.
 
 📚 Usage
 
